@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+HEAD
 Primera línea desde MAIN
-=======
 Ahora estamos en la primera línea del fichero pero en la nueva rama feature/Sheila
->>>>>>> feature/Sheila
+feature/Sheila
